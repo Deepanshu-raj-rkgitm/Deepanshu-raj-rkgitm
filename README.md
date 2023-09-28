@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Deepanshu-raj-rkgitm
 - 👀 I’m interested in  Web Development And AI Model Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C++ 
+- 💞️ I’m looking to collaborate on some vst plugins and Ml Libs 
+- 📫 How to reach me on intsagram @shinigami_shaws and Linkedin https://deepanshu-raj-rkgitm.github.io/Prodigy_WD_04/
 
 <!---
 Deepanshu-raj-rkgitm/Deepanshu-raj-rkgitm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
